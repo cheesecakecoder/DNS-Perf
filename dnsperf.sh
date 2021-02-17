@@ -11,7 +11,7 @@ TEST_COUNT=10
 # Providers to test. Duplicated providers are ok!
 PROVIDERS="
 176.103.130.130##AdGuard##(dns.adguard.com)
-23.253.163.53##AlernateDNS##(dns2.alternate-dns.com)
+76.76.19.19##AlternateDNS##(dns.alternate-dns.com)
 185.228.168.9##CleanBrowsing##(security-filter-dns.cleanbrowsing.org)
 1.1.1.1##Cloudflare##(one.one.one.one)
 8.26.56.26##Comodo##(ns1.recursive.dnsbycomodo.com)
